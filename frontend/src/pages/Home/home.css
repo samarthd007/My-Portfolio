@@ -1,0 +1,60 @@
+.home-container {
+    height: 300px;
+    color: white;
+    padding-left: 50px;
+}
+
+.home-content h2 {
+    padding: 5px;
+    padding-top: 80px;
+    margin-left: 100px;
+}
+
+.home-content h1 {
+    color: rgb(228, 228, 42);
+    margin-left: 100px;
+    padding: 5px;
+}
+
+.home-buttons {
+    margin-left: 100px;
+}
+
+.home-buttons .btn-hire {
+    background-color: #305179;
+    color: white;
+    width: 160px;
+}
+
+.home-buttons .btn-hire :hover {
+    background-color: white;
+    color: #3b8ff3;
+    width: 160px;
+    transition: 1s;
+}
+
+.home-buttons .btn-cv {
+    background-color: #551411;
+    color: white;
+    margin-left: 10px;
+    width: 160px;
+}
+
+.home-buttons .btn-cv :hover {
+    opacity: 80%;
+    transition: 1s;
+}
+
+@media (max-width: 600px) {
+    .home-container {
+        padding: 0;
+        margin: 0;
+        margin-top: 30px;
+    }
+    .home-container h2 {
+        font-size: 24px;
+    }
+    .home-container h1 {
+        font-size: 24px;
+    }
+}
