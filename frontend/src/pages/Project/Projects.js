@@ -77,7 +77,7 @@ const Projects = () => {
                                     <h5 className="">Portfolio website</h5>
                                 </div>
                                 <a
-                                    href="https://github.com/samarthd007/GMFINITY_MovieAPI_project"
+                                    href="https://github.com/samarthd007/My-Portfolio"
                                     className="ad-btn"
                                 >
                                     Source code

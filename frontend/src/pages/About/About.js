@@ -13,18 +13,23 @@ const About = () => {
                     <div className="col-md-6 about-content about">
                         <h1>About Me</h1>
                         <p>
-                            Think about your background, education, awards,
-                            skills and other attributes that you developed or
-                            earned throughout your career or education. Make a
-                            list of the things that make your work exceptional
-                            in any field. Consider writing or typing your list
-                            to create a reference sheet as you create your
-                            "about me" section. After you have created your
-                            list, read the job posting for the particular
-                            position for which you are applying. Compare your
-                            list to the job qualifications and responsibilities
-                            and see how the two compare. This exercise can help
-                            you decide which information is most relevant.
+                            Welcome to my portfolio! I'm Samarth D Valmiki, a
+                            dedicated Computer Science graduate with a passion
+                            for crafting innovative software solutions from the
+                            ground up. I'm thrilled to showcase my journey,
+                            skills, and projects that highlight my commitment to
+                            software development.I am actively seeking software
+                            development roles that allow me to contribute my
+                            expertise and passion for creating impactful
+                            software solutions. I hold a Bachelor's degree in
+                            Computer Science, where I immersed myself in the
+                            intricacies of programming, algorithms, and software
+                            engineering. I've always been captivated by the
+                            process of building software applications from
+                            scratch, from conceptualization to implementation..I
+                            aspire to collaborate with like-minded
+                            professionals, continuously enhance my skills, and
+                            contribute to projects that drive innovation.
                         </p>
                     </div>
                 </div>
